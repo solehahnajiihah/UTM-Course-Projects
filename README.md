@@ -1,5 +1,7 @@
 This section includes all the projects and assignments completed during my studies at UTM. Detailed information for each project is provided within the respective files.
 
+Note: This section is currently being updated.
+
 ### Courses:
 
 1. BUSINESS INTELLIGENCE AND ANALYTICS
